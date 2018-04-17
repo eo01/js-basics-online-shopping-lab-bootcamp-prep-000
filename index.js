@@ -1,6 +1,6 @@
 var cart = [];
 
-function setCart(c) {
+function setCart(newCart) {
   cart = c;
   return cart;
 }
